@@ -1,0 +1,6 @@
+C:\Users\Vizardespa\Documents\GitHub\wsLenel\wsLenel\WebLenel\bin\WebLenel.dll.config
+C:\Users\Vizardespa\Documents\GitHub\wsLenel\wsLenel\WebLenel\bin\WebLenel.dll
+C:\Users\Vizardespa\Documents\GitHub\wsLenel\wsLenel\WebLenel\bin\WebLenel.pdb
+C:\Users\Vizardespa\Documents\GitHub\wsLenel\wsLenel\WebLenel\obj\Debug\WebLenel.csprojResolveAssemblyReference.cache
+C:\Users\Vizardespa\Documents\GitHub\wsLenel\wsLenel\WebLenel\obj\Debug\WebLenel.dll
+C:\Users\Vizardespa\Documents\GitHub\wsLenel\wsLenel\WebLenel\obj\Debug\WebLenel.pdb
